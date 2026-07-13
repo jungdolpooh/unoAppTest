@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "UnoCanvasApp",
   "short_name": "UnoCanvasApp",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "theme_color": "#ffffff",
-  "scope": "/",
+  "scope": "./",
   "icons": [
     {
       "src": "package_b24495cfe3f32501f30c25ce70f66c0e40c70436/icon-16.png",
