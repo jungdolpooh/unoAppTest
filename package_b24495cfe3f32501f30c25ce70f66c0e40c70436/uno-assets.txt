@@ -412,6 +412,8 @@ _framework/mscorlib.wasm
 _framework/netstandard.wasm
 _framework/System.Private.CoreLib.wasm
 _framework/dotnet.js.map
+_framework/dotnet.native.js
+_framework/dotnet.native.wasm
 _framework/dotnet.runtime.js
 _framework/dotnet.runtime.js.map
 _framework/icudt_CJK.dat
@@ -422,8 +424,6 @@ _framework/Base.Shapes.pdb
 _framework/Uno.Fonts.Fluent.dll
 _framework/Uno.Fonts.OpenSans.dll
 _framework/Uno.UI.Lottie.dll
-_framework/dotnet.native.wasm
-_framework/dotnet.native.js
 _framework/UnoCanvasApp.wasm
 _framework/UnoCanvasApp.pdb
 _framework/dotnet.js
