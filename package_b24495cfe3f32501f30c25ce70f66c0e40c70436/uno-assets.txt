@@ -420,7 +420,11 @@ _framework/icudt_CJK.dat
 _framework/icudt_EFIGS.dat
 _framework/icudt_no_CJK.dat
 _framework/Base.Shapes.wasm
+_framework/StyleResourceDictionary.wasm
+_framework/TopSmartReportEdit.wasm
 _framework/Base.Shapes.pdb
+_framework/StyleResourceDictionary.pdb
+_framework/TopSmartReportEdit.pdb
 _framework/Uno.Fonts.Fluent.dll
 _framework/Uno.Fonts.OpenSans.dll
 _framework/Uno.UI.Lottie.dll
